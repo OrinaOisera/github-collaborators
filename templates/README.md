@@ -23,6 +23,8 @@ A short, clean README.  Includes:
 
 ## Contributing to Templates
 
-1. Update this README.md to include a good template you found
-2. Add a template file to this directory
-3. Open an Issue to suggest adding a template without having to make a pull request on this repo
+Options:
+
+* Update this README.md to include a good template you found
+* Add a template file to this directory
+* Open an Issue to suggest adding a template without having to make a pull request on this repo
