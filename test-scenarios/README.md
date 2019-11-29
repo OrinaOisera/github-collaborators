@@ -1,9 +1,8 @@
 # Test Scenarios
 
 Got a good idea for how to practice with GitHub collaboration?  Great!
-Add it here!
+Add it here! 
 
-## Contributing
+## Contributing to test scenarios
 
-Add a markdown or text file to this directory outlining (or, detailing)
-your practice idea.
+Add a file to this directory outlining (or, detailing) your practice idea.
