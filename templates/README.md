@@ -1,8 +1,11 @@
 # Templates
 
-This directory is a resource for templates.
+Templates to share with the group
 
-## Links to good README markdown templates
+
+## Links to templates 
+
+### README's
 
 https://github.com/dbader/readme-template
 A short, clean README.  Includes:
@@ -12,10 +15,13 @@ A short, clean README.  Includes:
 --
 
 
-## Links to good CONTRIBUTING markdown templates
+### CONTRIBUTING's
 
 
-## Contributing to templates
+### Others 
 
-Either add links to good templates (with a short description), to this 
-README.md, or add template files to this directory.
+
+## Contributing to Templates
+
+Either add links to good templates (with a short description) in this README.md
+or add template files to this directory.
