@@ -8,6 +8,7 @@ Templates to share with the group
 ### README's
 
 https://github.com/dbader/readme-template
+
 Short and clean.  Includes:
   * a brief Contributing section
   * transcriptions to Portuguese and Spanish
@@ -18,6 +19,7 @@ Short and clean.  Includes:
 ### CONTRIBUTING's
 
 https://github.com/Swati4star/Images-to-PDF/blob/master/CONTRIBUTING.md
+
 A clean example with example commands
 
 
